@@ -213,3 +213,8 @@ Figure, Axes, subplot. Гистограммы, scatter, heatmap, boxplot.
 5. Bishop C. *Pattern Recognition and Machine Learning.* — Springer (для математической глубины).
 6. Документация NumPy, Pandas, Scikit-learn, BibLaTeX, TikZ.
 7. Репозиторий курса с лекциями, шаблонами и датасетами (предоставляется преподавателем).
+
+
+## New
+Повторить шаги по очистке данных из статьи https://proglib.io/p/moem-dataset-rukovodstvo-po-ochistke-dannyh-v-python-2020-03-27 
+Данные взять из файла test.csv
